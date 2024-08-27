@@ -48,7 +48,7 @@ For any questions, suggestions, or further information, please feel free to cont
 
 **Developer Name**: Abdul Basir
 **Email**: genius01abdulbasir.9707@gmail.com
-**GitHub**:  github.com/infinixuser009
+**GitHub**: https://github.com/infinixuser009
 **LinkedIn**: www.linkedin.com/in/abdul-basir-504393284
 
 ---
